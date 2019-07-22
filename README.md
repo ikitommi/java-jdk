@@ -17,7 +17,7 @@ You can find clojars in README of packages.
 
 ## Usage
 
-```
+```clj
 (require '[jdk.io.File :as f])
 
 (-> "./resource/MyFile.txt"
